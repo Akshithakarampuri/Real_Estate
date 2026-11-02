@@ -1,0 +1,3 @@
+com\estateai\AuthControllerTest.class
+com\estateai\AuthServiceTest.class
+com\estateai\JwtServiceTest.class
